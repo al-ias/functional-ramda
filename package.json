@@ -1,0 +1,17 @@
+{
+  "name": "functional-ramda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./**/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^16.2.0"
+  },
+  "dependencies": {
+    "ramda": "^0.28.0"
+  }
+}
